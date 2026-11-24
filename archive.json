@@ -1,0 +1,484 @@
+{
+ "days": [
+  {
+   "date": "2026-11-24",
+   "stories": [
+    {
+     "title": "Conflict and conservation: How AI is being leveraged to protect Malaysian wildlife",
+     "source": "The Star",
+     "url": "https://thestar.com.my/tech/tech-news/2026/11/23/conflict-and-conservation-how-ai-is-being-leveraged-to-protect-malaysian-wildlife",
+     "synopsis": "In Malaysia, AI is helping to keep elephants away from farms and to detect orang utan nests in remote forests. WWF Malaysia has been researching the nest-detection tool in Sabah since 2023, because sprawling forests make orang utans hard to monitor. Better and faster information can help conservation teams plan and protect habitats.",
+     "image": "https://apicms.thestar.com.my/uploads/images/2026/11/22/4225770.jpg",
+     "category": "Environment",
+     "emoji": "🦧"
+    },
+    {
+     "title": "A Sweeter Future? AI Helps Scientists Discover New Sugar Substitutes",
+     "source": "American Friends of the Hebrew University",
+     "url": "https://www.afhu.org/2026/11/23/a-sweeter-future-ai-helps-scientists-discover-new-sugar-substitutes/",
+     "synopsis": "Researchers at the Hebrew University of Jerusalem combined machine learning with molecular modeling to screen more than 50 million chemical compounds. They narrowed the field to 92 promising candidates for future sugar substitutes. Many have chemical structures unlike known sweeteners, which hints at entirely new kinds of sweet-tasting compounds.",
+     "image": "https://www.afhu.org/wp-content/uploads/2026/11/Website-Featured-Images-Pt.-5-91.png",
+     "category": "Science",
+     "emoji": "🍬"
+    },
+    {
+     "title": "An AI-Based Drug Discovery Tool Goes Beyond Protein Structures",
+     "source": "The Scientist",
+     "url": "https://www.the-scientist.com/an-ai-based-drug-discovery-tool-goes-beyond-protein-structures-75258",
+     "synopsis": "Researchers developed Ptarmigan-1, an AI tool that can screen the so-called dark proteome against over a billion drug candidates in a day. It predicts protein-drug interactions without needing a protein's fixed 3D structure, which opens the door to proteins once considered undruggable. In the study, it identified successful drug candidates that a co-folding model could not.",
+     "image": null,
+     "category": "Medicine",
+     "emoji": "💊"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "stories": [
+    {
+     "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+     "source": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+     "synopsis": "Researchers at the University of Plymouth have built an AI system that can spot hidden warning signs of bladder cancer up to five years before a diagnosis. In a major study of nearly 70,000 patients, it identified 85% of cases, and it can sort people into low-risk, uncertain and high-risk groups. That could help doctors catch a hard-to-spot cancer earlier, when treatment has the best chance to help.",
+     "image": "https://www.sciencedaily.com/images/1920/glowing-urinary-bladder-cancer.webp",
+     "category": "Medicine",
+     "emoji": "🩺"
+    },
+    {
+     "title": "AI scientist autonomously generates and validates new biological discoveries",
+     "source": "Phys.org",
+     "url": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
+     "synopsis": "Researchers at Sweden's Chalmers University of Technology have created an AI scientist that can come up with hypotheses, design experiments and interpret the results. It works in a closed-loop AI laboratory studying brewer's yeast. The team hopes future systems like this will become valuable partners to human scientists tackling big questions in biology and medicine.",
+     "image": null,
+     "category": "Science",
+     "emoji": "🔬"
+    },
+    {
+     "title": "How AI tools can redefine universal design to increase accessibility",
+     "source": "Google Research",
+     "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
+     "synopsis": "Google Research introduces Natively Adaptive Interfaces, a framework for building apps that use multimodal AI to adapt to each user's needs, co-designed with disability communities. Examples include StreetReaderAI, which pairs an AI Describer with an AI Chat to answer questions, and Grammar Laboratory, a bilingual American Sign Language and English platform that gives students tutoring and feedback on their writing.",
+     "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+     "category": "Accessibility",
+     "emoji": "♿"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "stories": [
+    {
+     "title": "Find My Things: New teachable AI tool helps blind and low-vision people locate lost personal items",
+     "source": "Microsoft Research",
+     "url": "https://www.microsoft.com/en-us/research/story/find-my-things/",
+     "synopsis": "Microsoft researchers built a teachable AI tool that lets blind and low-vision people train it to help with their own daily lives. Find My Things helps users locate lost personal items. It's available to try for free in the Seeing AI app.",
+     "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/10/FMT-Accessibility-Package-TWLIFB-1200x627-1.jpg",
+     "category": "Accessibility",
+     "emoji": "🔎"
+    },
+    {
+     "title": "AI Forecasts Unlock Aid for Farmers Before Floods Strike",
+     "source": "The Xylom",
+     "url": "https://www.thexylom.com/post/google-ai-flood-forecasting-bangladesh-farmer-flooding-aid/",
+     "synopsis": "Google's AI-based Flood Hub gives flood warnings five days in advance, including in river basins without streamflow gauges. A nonprofit trial pairs those warnings with unconditional cash, so farmers can prepare before the water arrives. Trials in Africa suggest farmers improve their livelihoods with early cash, and a planned 2026 trial in northern Bangladesh would cover over 100,000 families.",
+     "image": "https://storage.ghost.io/c/44/6c/446c72c5-161f-43d1-879e-91ea74cefd7d/content/images/size/w1200/wix/154c07_d99276b84df34f15a1013666a3787fd2-mv2.webp",
+     "category": "Safety",
+     "emoji": "🌾"
+    },
+    {
+     "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+     "source": "Medical Xpress",
+     "url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html",
+     "synopsis": "Microsoft researchers report an AI tool called DxO that outperformed individual generalist physicians at diagnosing complex medical cases, in a paper published in the journal Science. It made an accurate diagnosis 83.2% of the time on complex published cases and reached 80.3% accuracy on emergency department admission cases. The researchers are careful to note this doesn't mean it is better than doctors in real-world practice.",
+     "image": null,
+     "category": "Medicine",
+     "emoji": "🩺"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "stories": [
+    {
+     "title": "Mencap launches new AI Easy Read tool to make information more accessible",
+     "source": "Learning Disability Today",
+     "url": "https://www.learningdisabilitytoday.co.uk/news/mencap-launches-new-ai-easy-read-tool-to-make-information-more-accessible/",
+     "synopsis": "Mencap and Google DeepMind have launched the Easy Read Co-Creator Tool, which uses AI to turn complex information into simple text with matching images for people with learning disabilities. What used to take weeks can now take minutes, and people check and edit everything before it is used. It was shaped by people with a learning disability, so more organisations can share clear, accessible information.",
+     "image": "https://www.learningdisabilitytoday.co.uk/wp-content/uploads/Mencap-colleague-Vijay-making-an-Easy-Read-with-the-tool.jpg",
+     "category": "Accessibility",
+     "emoji": "📖"
+    },
+    {
+     "title": "AI Is Accelerating Scientific Discovery. What Will It Take to Trust the Results?",
+     "source": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/ai-is-accelerating-scientific-discovery-what-will-it-take-to-trust-the-results-302943295.html",
+     "synopsis": "A recap of the AIAS+ 2026 conference in San Francisco describes how AI is helping scientists identify potential antibiotics, design new materials and explore complex mathematical problems. Researchers there also stressed that careful lab testing and independent human checks are how these promising results turn into real progress. It's a hopeful look at science and people working together.",
+     "image": "https://mmx.prnewswire.com/media/MS1590615/TCCI-logo-blue-800-Logo.jpg?id=OA3082417&p=facebook",
+     "category": "Science",
+     "emoji": "🔬"
+    },
+    {
+     "title": "IntelliVIX Wins Two CES 2027 Innovation Awards, Showcasing Global Competitiveness in Safety AI",
+     "source": "Carroll County News",
+     "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_c95fcbb0-be81-5b1a-946c-d92bff984c61.html",
+     "synopsis": "Two AI safety tools have won CES 2027 Innovation Awards. One is an autonomous flood safety agent designed to protect motorists and pedestrians at underpasses, tunnels and low-lying roads. The other is a wildfire platform that links early detection, spread prediction, drone monitoring and evacuation support. Both are aimed at protecting lives. This is a company press release from about a week ago.",
+     "image": null,
+     "category": "Safety",
+     "emoji": "🛟"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "stories": [
+    {
+     "title": "How AI Farm Advice on SMS, Voice and WhatsApp Is Reaching African Farmers",
+     "source": "eAgMark",
+     "url": "https://eagmark.net/news/ai-farm-advice-sms-voice-whatsapp-african-farmers",
+     "synopsis": "Simple AI tools that work in local languages, over text, voice calls and WhatsApp, are helping fill a big gap in farm advice, since Kenya has just one extension officer for about 1,100 farm households. Ghana's Darli AI reached 110,000 farmers in more than 27 languages within eight months, and farmers don't even need to read or write to use it. The article notes the services work best when tied to trusted people like cooperatives or extension officers.",
+     "image": "https://firebasestorage.googleapis.com/v0/b/agritoolbox.firebasestorage.app/o/articles%2Ffeatured%2F1794477614843_How%20AI%20Farm%20Advice%20on%20SMS%2C%20Voice%20and%20WhatsApp%20Is%20Reaching%20African%20Farmers.png?alt=media&token=5a0fe1e8-b90d-4375-b1ec-57fe1928d770",
+     "category": "Everyday life",
+     "emoji": "🌾"
+    },
+    {
+     "title": "AI in science: every researcher now has an AI lab assistant. What that means.",
+     "source": "DEV Community",
+     "url": "https://dev.to/kawsarlog/ai-in-science-every-researcher-now-has-an-ai-lab-assistant-what-that-means-2ii1",
+     "synopsis": "This roundup shows how AI is speeding up discovery in labs. Google DeepMind's GNoME found 2.2 million new crystal structures, including 52,000 novel lithium-ion conductors, and outside researchers have already made 736 of those predicted materials in the lab. A materials science study also found AI-assisted teams discovered 44% more compounds with measurably better properties.",
+     "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajsjhn4rogqqmn5wx6y5.png",
+     "category": "Science",
+     "emoji": "🔬"
+    },
+    {
+     "title": "AI helps uncover critical flaw in widely used internet software amid cyber arms race",
+     "source": "ABC 33/40",
+     "url": "https://abc3340.com/news/nation-world/ai-helps-uncover-critical-flaw-in-widely-used-internet-software-amid-cyber-arms-race",
+     "synopsis": "Amid scary headlines about AI's risks, security researchers put AI's abilities to good use by uncovering a severe flaw in Java before it was too late. It's a reassuring sign that AI can help defenders keep widely used internet software safer for everyone.",
+     "image": "https://abc3340.com/resources/media2/16x9/4480/1320/11x154/90/b4f4411f-816c-4154-b747-88c099549b4d-GettyImages693472226.jpg",
+     "category": "Safety",
+     "emoji": "🛡️"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "stories": [
+    {
+     "title": "Arcadia classrooms test UW-Madison AI tool to support teaching",
+     "source": "Spectrum News 1",
+     "url": "https://spectrumnews1.com/wi/milwaukee/news/2026/11/17/arcadia-uw-madison-ai-teaching",
+     "synopsis": "Sixth-graders at Arcadia Middle School are helping test an AI tool from UW-Madison that transcribes and translates their group discussions. It helps teacher Allyson LaFave see whether students are using key concepts, staying on task and all contributing. That matters in a district where 75% of students are English-language learners, and the tool is meant to help teachers, not replace them.",
+     "image": "https://s7d2.scene7.com/is/image/TWCNews/AI_TECH_CLASSROOMS_NATALIE_SOPYLA_WI_1117_1794959257039",
+     "category": "Education",
+     "emoji": "🍎"
+    },
+    {
+     "title": "Chhattisgarh tests AI cameras for wildlife, poaching alerts",
+     "source": "Inshorts",
+     "url": "https://inshorts.com/en/news/chhattisgarh-tests-ai-cameras-for-wildlife--poaching-alerts-1794997009938",
+     "synopsis": "In Udanti-Sitanadi Tiger Reserve, a pilot system puts AI cameras on 70-80-ft towers to keep track of elephants and tigers and to spot poachers. Instant WhatsApp alerts go to forest officials. A peer-to-peer wireless network lets it work in real time even where there's no mobile coverage, across five forest ranges near the Odisha border.",
+     "image": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/l/2026/11_nov/18_wed/img_1794997009637_815.jpg",
+     "category": "Environment",
+     "emoji": "🐅"
+    },
+    {
+     "title": "Leading the next era of AI-enabled drug discovery",
+     "source": "UNC–Chapel Hill (University of North Carolina)",
+     "url": "https://www.unc.edu/posts/2026/11/18/leading-the-next-era-of-ai-enabled-drug-discovery/",
+     "synopsis": "At UNC's Eshelman School of Pharmacy, researchers are blending chemistry, biology and computing so AI can help find tomorrow's medicines faster. One lab is using AI to tackle health challenges including tuberculosis, cancer and Alzheimer's disease. The team is also working to make these tools affordable for more labs, while stressing that AI works best alongside scientists' expertise.",
+     "image": "https://www.unc.edu/wp-content/uploads/2026/11/018326_eshelman_sop_ai_drug_discovery_0011-scaled.jpg",
+     "category": "Medicine",
+     "emoji": "💊"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "stories": [
+    {
+     "title": "AI learning tool helps blind students excel in Malawi",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi",
+     "synopsis": "A 25-year-old Malawian innovator has built an artificial intelligence tool for blind and visually impaired students. It is being used to help them improve their academic performance. It's a great example of a young creator opening up learning for classmates who have too often been left out.",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/16_11_SV_Blind-learning-AI-tools-Malawi_WIDE-THUMB-1794832559.jpg?resize=1920%2C1080&quality=80",
+     "category": "Education",
+     "emoji": "📚"
+    },
+    {
+     "title": "Developing a new accessibility AI app for virtual meetings",
+     "source": "RNID",
+     "url": "https://rnid.org.uk/2026/11/developing-a-new-accessibility-ai-app-for-virtual-meetings/",
+     "synopsis": "RNID, backed by Google.org, has created an Accessibility Assistant app that runs inside a popular video conferencing platform. It uses AI to analyse a meeting's audio, video, transcription and chat, then gives gentle prompts when communication barriers arise. This encourages deaf-aware meeting habits, and RNID is now inviting organisations to join trials of the tool.",
+     "image": "https://rnid.org.uk/wp-content/uploads/2022/09/RNID-logo-landscape.jpg",
+     "category": "Accessibility",
+     "emoji": "🧏"
+    },
+    {
+     "title": "AI Learns to Design Enzymes, Cancer Cells Lose an Ally, and Webb Finds a Planet That Reflects the Heat",
+     "source": "Next Horizon",
+     "url": "https://www.nexthorizon.space/2026/11/5-science-news-stories-november-1-2026.html",
+     "synopsis": "This science roundup highlights Vanderbilt chemists' MutexaGPT, a multi-agent AI system that helps turn a chemist's intuition into enzyme designs. The article notes it connects to the wider effort to use AI in drug discovery, where computer-made suggestions still have to survive laboratory and clinical testing. It's a hopeful look at AI working alongside human scientists.",
+     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifaQ-mDAMf7YUDMfeHVblNh5EDqhtb8mkGugAwJZig7K1zFbPB3mfJmtDIWz4iK5L308j2bB_ZF7lgAoZ5jX_cRwHpLfPRPQ9fAJgekHa1aYWkqeBHRez3f8oWDV3_riT75t9rdtA1qwmkL1gw1iN72gk6Zt7tFq_SJBWIvYaLj7lRzZxNt5xzl9gbA0c/w1200-h630-p-k-no-nu/NextHorizon_5_News_2026-11-01_Collage.png",
+     "category": "Science",
+     "emoji": "🧪"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "stories": [
+    {
+     "title": "17-YO Builds AI Tool So Blind People Can Read Bank Statements & Textbooks More Independently",
+     "source": "The Better India",
+     "url": "https://thebetterindia.com/innovation/ai-tool-makes-pdfs-accessible-for-the-blind-gurugram-visionably-yash-bhatnagar-12814698",
+     "synopsis": "When 17-year-old Yash Bhatnagar learned that blind users often can't read PDFs, he built Visionably, an AI tool that turns inaccessible documents into ones screen readers can understand. It adds accessibility tags, reading order and image descriptions, so things like bank statements, textbooks and forms become easier to read independently. What a thoughtful way to turn a simple question into real independence!",
+     "image": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/11/16/visionably-2026-11-16-18-26-21.png",
+     "category": "Accessibility",
+     "emoji": "👩‍🦯"
+    },
+    {
+     "title": "AI speeds up care with doctors in charge, new November 2026 studies show",
+     "source": "Robauto",
+     "url": "https://robauto.ai/blog/ai-doctors-faster-diagnosis",
+     "synopsis": "A two-year randomized trial reported in NEJM AI found that people with autoimmune disease were diagnosed in a median of 43 days instead of 138 when an AI model supported their care. The trial covered 954 patients in the AI group and 1,006 in the comparison group. Another study found AI cut heart-scan reading time from 8.5 to 4.6 minutes with comparable accuracy, and the doctor still makes the final call. Answers sooner and more time back for doctors is good news for patients.",
+     "image": "https://hkeytqaukllckucnhzey.supabase.co/storage/v1/object/public/email-assets/blog/2026-11-12/ai-doctors-faster-diagnosis-cover-7f9f61f9.png",
+     "category": "Medicine",
+     "emoji": "🩺"
+    },
+    {
+     "title": "The week's most consequential AI news came from labs, not launches",
+     "source": "DEV Community",
+     "url": "https://dev.to/ganesh_sivakumar_359edfcd/the-weeks-most-consequential-ai-news-came-from-labs-not-launches-10be",
+     "synopsis": "At Brookhaven National Laboratory, physicists collide heavy ions at near light speed to recreate matter as it existed a microsecond after the Big Bang. This week the lab announced that an AI system learned to pick out the meaningful particle jets from the background noise on its own, without a single human-labeled example. The result was published in Scientific Reports, and it's a lovely reminder that AI is helping people explore the deepest questions about our universe.",
+     "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgp2zvxoakwxw6z3u1bmk.png",
+     "category": "Science",
+     "emoji": "🔬"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "stories": [
+    {
+     "title": "AI discovers a hidden heart signal that could predict sudden death",
+     "source": "ScienceDaily",
+     "url": "https://sciencedaily.com/releases/2026/11/261112230456.htm",
+     "synopsis": "Scientists used AI to find a hidden warning signal in ordinary heart scans that could help predict sudden cardiac death before it strikes. The AI-powered approach outperformed conventional screening methods and could point to thousands of people who are at risk. It's a hopeful step toward catching heart trouble early, and the work was published in Nature.",
+     "image": "https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp",
+     "category": "Medicine",
+     "emoji": "❤️"
+    },
+    {
+     "title": "Microsoft, DepEd launch AI literacy program for 2,000 teachers",
+     "source": "Philippine Daily Inquirer",
+     "url": "https://technology.inquirer.net/150346/microsoft-deped-launch-ai-literacy-program-for-2000-teachers",
+     "synopsis": "Microsoft and the Philippines' Department of Education have teamed up to train 2,000 public school teachers in AI literacy. The program launched on November 5 in Makati City with about 100 senior high school teachers in hands-on training. It aims to help teachers bring AI into their classrooms while promoting responsible use and human oversight, with sessions running through May 2027.",
+     "image": "https://technology.inquirer.net/files/2026/11/Microsoft-Elevate-and-Behind-the-Chat-Launch.png",
+     "category": "Education",
+     "emoji": "🍎"
+    },
+    {
+     "title": "Honolulu working to use AI to help early warning detection to be more proactive in threats like storms and wildfire",
+     "source": "KHON2",
+     "url": "https://www.khon2.com/local-news/ai-monitoring-flood-prevention/",
+     "synopsis": "Honolulu city officials are working to add artificial intelligence to their early warning systems for threats like storms, wildfires and tsunamis. The city's emergency management director says the goal is to build on current monitoring, add more in strategic areas, and pair it with AI. That would help the city move from reacting to problems to anticipating them, which could give residents more warning.",
+     "image": null,
+     "category": "Safety",
+     "emoji": "🌺"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "stories": [
+    {
+     "title": "AI Helps Unlock Hundreds of Theorems in Gödel's Notebooks",
+     "source": "Archyde",
+     "url": "https://www.archyde.com/ai-helps-unlock-hundreds-of-theorems-in-godels-notebooks/",
+     "synopsis": "For years, Helsinki logician Jan von Plato has been decoding 1,009 pages of Kurt Gödel's notes, written largely in an old German shorthand. This September he brought in the AI model Claude, which delivered a 650-page breakdown within days and helped surface hundreds of previously unknown theorems. Every page still had to be checked by hand, and von Plato says the notebooks hold more unexplored ideas in logic, physics and cosmology.",
+     "image": null,
+     "category": "Science",
+     "emoji": "🧮"
+    },
+    {
+     "title": "AI could help hospitals diagnose PTSD in real time",
+     "source": "NPR",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6031981/ai-ptsd-trauma-prediction-er",
+     "synopsis": "A New York research team has built an AI model that uses patients' answers to a simple emergency-room question, plus their demographics, to estimate how likely they are to develop PTSD a month later. The work, published in Nature Communications, could help busy ER teams prevent mental health disorders before they start.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2Ff0%2F3a0a93054117b2a176fb1bb2b3a4%2F9ed87fec-0d73-40be-aff9-108ebaef972d.jpg",
+     "category": "Medicine",
+     "emoji": "💙"
+    },
+    {
+     "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+     "source": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+     "synopsis": "Researchers at Brown University have overcome a long-standing 'dead layer' problem that makes promising materials stop working when they are made extremely thin. Their technique keeps the materials' electrical and magnetic properties intact at nearly atomic thicknesses. That is a step toward ultra-low-power chips that could help slash the energy demands of AI. The findings appear in Nature Materials.",
+     "image": "https://www.sciencedaily.com/images/1920/multiferroic-material-three-layer-system.webp",
+     "category": "Environment",
+     "emoji": "🔋"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "stories": [
+    {
+     "title": "AI-powered bionic eye breakthrough could help the blind see again",
+     "source": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+     "synopsis": "Scientists have used AI to make experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. For people who lost their sight to an inherited eye disease or an accident, it brings the hope of seeing again one step closer.",
+     "image": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp",
+     "category": "Accessibility",
+     "emoji": "👁️"
+    },
+    {
+     "title": "Using AI to map disaster damage for faster rescue and recovery",
+     "source": "Semafor",
+     "url": "https://www.semafor.com/article/10/26/2026/using-ai-to-map-disaster-damage-for-faster-rescue-and-recovery",
+     "synopsis": "Texas A&M's CLARKE system can assess up to 2,000 homes in seven minutes, even without an internet connection after a drone lands. Researchers estimate it could help emergency managers make decisions roughly a day earlier so help reaches the hardest-hit areas first. It is already part of the standard operating procedure for Florida's disaster drone team.",
+     "image": "https://img.semafor.com/08c281a71487a1b807b9d18d97be4ad0c4560b0a-7087x5315.jpg?rect=0,798,7087,3721&w=1200&h=630&q=75&auto=format",
+     "category": "Safety",
+     "emoji": "🚁"
+    },
+    {
+     "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+     "source": "MIT News",
+     "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+     "synopsis": "MIT researchers have developed a technique for building fast, trustworthy and adaptable AI climate emulators using only a fraction of the data typically required. These models can run in just a few seconds, which lets scientists explore many future climate scenarios quickly. The team hopes the work will make such tools more useful for policy decisions.",
+     "image": "https://news.mit.edu/sites/default/files/images/202611/MIT-Climate-Emulation-01.jpg",
+     "category": "Environment",
+     "emoji": "🌍"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "stories": [
+    {
+     "title": "'Digital advances are reshaping nature conservation' say experts",
+     "source": "Positive News",
+     "url": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
+     "synopsis": "Kew Gardens' State of the World's Plants and Fungi 2026 report, which draws on more than 400 scientists from 40 countries, finds that AI is helping to identify challenging plants and even pinpoint species new to science. Specimens are now being analysed at an unprecedented scale, and Kew has digitised 7.4 million plant and fungi specimens. The authors note that AI identifications still need expert validation, but it's a hopeful sign for the race to protect nature.",
+     "image": null,
+     "category": "Environment",
+     "emoji": "🌿"
+    },
+    {
+     "title": "AlphaGenome 2: Google's New AI Gets Better at Decoding Disease-Linked DNA",
+     "source": "TechRepublic",
+     "url": "https://www.techrepublic.com/article/news-google-deepmind-alphagenome-2-genetic-variants/",
+     "synopsis": "Google DeepMind announced AlphaGenome 2 on Nov. 11. It is a DNA analysis model that predicts how genetic variations affect individual cell types. Trained on more than 107 million single-cell profiles across 68 tissues, it identified 30% of causal variants in one benchmark, up from 16% for the original version. That could bring real benefits to drug research.",
+     "image": null,
+     "category": "Medicine",
+     "emoji": "🧬"
+    },
+    {
+     "title": "AI Summit explores technology's role in student success, equity",
+     "source": "School News Network",
+     "url": "https://www.schoolnewsnetwork.org/2026/11/11/ai-summit-explores-technologys-role-in-student-success-equity/",
+     "synopsis": "More than 90 educators from Michigan and several other states gathered for Kent ISD's fourth annual AI Summit in early November. The aim was to explore how AI can make learning more accessible and engaging for students while simplifying teachers' work. Sessions stressed being open with students about when and why AI is used, so they learn to use it well.",
+     "image": "https://snn-images.schoolnewsnetwork.org/wp-content/uploads/2026/11/10161054/Kent-ISD-AI-Summit-3.jpg",
+     "category": "Education",
+     "emoji": "🍎"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "stories": [
+    {
+     "title": "AI medicine breakthrough: Could 'good viruses' created by AI cure deadly diseases and infections?",
+     "source": "Genetic Literacy Project",
+     "url": "https://geneticliteracyproject.org/2026/11/10/ai-medicine-breakthrough-could-good-viruses-created-by-ai-cure-deadly-infections/",
+     "synopsis": "For the first time, scientists say they have used AI-designed viruses called phages to treat a person with a life-threatening E. coli infection that had resisted antibiotics and every phage doctors could find. The startup Radical Numerics used an AI model called Omnii to redesign a phage known as T7. Outside experts are intrigued but cautious, and results could take months, but it's a hopeful step against drug-resistant infections.",
+     "image": null,
+     "emoji": "🦠",
+     "category": "Medicine"
+    },
+    {
+     "title": "AI Detects \"Invisible\" Signs of Pancreatic Cancer Years Before Diagnosis",
+     "source": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+     "synopsis": "A new AI system called REDMOD can pick up extremely subtle changes in pancreatic tissue that may signal cancer long before it is visible on conventional scans. It spotted warning signs an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists. The research appeared in the journal Gut, and more study is needed before routine use, but it points toward earlier, potentially lifesaving treatment.",
+     "image": "https://www.sciencedaily.com/images/1920/pancreatic-cancer-male-anatomy.webp",
+     "emoji": "🩺",
+     "category": "Medicine"
+    },
+    {
+     "title": "AI helps Stanford scientists discover a \"natural Ozempic\" with a surprising advantage",
+     "source": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+     "synopsis": "Stanford Medicine scientists used AI to search 20,000 human genes for new hormones. They identified a naturally occurring molecule that dramatically suppresses appetite and promotes fat loss in animals. It could lead to a new generation of weight-loss medications.",
+     "image": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-fit-woman.webp",
+     "emoji": "🧬",
+     "category": "Medicine"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "stories": [
+    {
+     "title": "Mayo Clinic AI detects pancreatic cancer up to 3 years before diagnosis in landmark validation study",
+     "source": "Mayo Clinic News Network",
+     "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/",
+     "synopsis": "A Mayo Clinic AI model called REDMOD helps specialists spot pancreatic cancer on routine abdominal CT scans up to three years before clinical diagnosis. In a study of nearly 2,000 scans that were originally read as normal, it identified 73% of the prediagnostic cancers about 16 months ahead of diagnosis, nearly double the rate of specialists working without AI. The team is now moving the work into clinical testing, which is hopeful news for earlier treatment of a very hard-to-catch cancer.",
+     "image": null,
+     "emoji": "🎗️",
+     "category": "Medicine"
+    },
+    {
+     "title": "AI is changing cancer treatment — and a new breakthrough shows just how far we've come",
+     "source": "Tom's Guide",
+     "url": "https://tomsguide.com/ai/ai-is-changing-cancer-treatment-and-a-new-breakthrough-shows-just-how-far-weve-come",
+     "synopsis": "Researchers are using AI to understand cancer in far more detail than was possible a decade ago, moving toward treatments matched to the genetic makeup of each person's tumor. One example is the National Cancer Institute's PERCEPTION tool, which reads gene activity in individual cancer cells to predict whether certain drugs might work. The article is clear that lab and patient testing still come next, but it sees encouraging signs for more personalized care.",
+     "image": "https://cdn.mos.cms.futurecdn.net/dS2fewn72KRbX6PSjhKyyL-2560-80.jpg",
+     "emoji": "🧬",
+     "category": "Medicine"
+    },
+    {
+     "title": "AI Forecasts Heart Patients' Survival Slightly Better Than Doctors",
+     "source": "StudyFinds",
+     "url": "https://studyfinds.com/ai-heart-patients-survival-better-than-doctors/",
+     "synopsis": "In a study of 27,382 heart patients in the UK and US, an AI program measured heart function from scans in just three to four seconds. Its numbers also tracked which patients later survived slightly better than the doctors' own readings. Doctors still came out ahead for patients with hypertrophic cardiomyopathy, which points to AI and clinicians working well as a team.",
+     "image": "https://studyfinds.com/wp-content/uploads/2026/11/doctor-heart-AI-scaled.jpeg",
+     "emoji": "❤️",
+     "category": "Medicine"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "stories": [
+    {
+     "title": "AI medicine breakthrough: Could 'good viruses' created by AI, cure deadly viruses?",
+     "source": "Genetic Literacy Project",
+     "url": "https://geneticliteracyproject.org/2026/11/10/ai-medicine-breakthrough-could-good-viruses-created-by-ai-cure-deadly-viruses/",
+     "synopsis": "For the first time, scientists say they have used viruses designed by AI, called phages, to treat a person with a life-threatening E. coli infection that hadn't responded to antibiotics or any phage doctors could find. The startup Radical Numerics used an AI model called Omnii to redesign a phage so it could grab onto the patient's resistant strain, and the FDA authorized a trial. Results could take months, but the company hopes to one day build a custom phage for a patient in just days.",
+     "image": null,
+     "emoji": "🦠",
+     "category": "Medicine"
+    },
+    {
+     "title": "How AI glasses are changing the way people communicate",
+     "source": "Euronews",
+     "url": "https://www.euronews.com/2026/11/10/how-ai-glasses-are-changing-the-way-people-communicate",
+     "synopsis": "AI glasses are moving from gadget to everyday tool for travellers and people with hearing loss. Liu Shanshan, who lost her hearing at age three, uses glasses that show speech as captions almost in real time, and says she would wear them at meetings, while eating out, or when hailing a taxi. Others are using real-time translation to speak in their own language and still be understood.",
+     "image": "https://images.euronews.com/articles/stories/09/95/86/39/1200x675_cmsv2_07d0a06f-f455-53cf-998c-fb2ee901a9e8-9958639.jpg",
+     "emoji": "👓",
+     "category": "Accessibility"
+    },
+    {
+     "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+     "source": "News Tribune",
+     "url": "https://www.newstribune.com/news/2026/nov/09/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts/",
+     "synopsis": "Environmental groups around the world are using AI to analyze climate data, track forest fires and count endangered wildlife, including Save the Elephants researchers flying surveillance drones in Kenya's Samburu National Reserve. With the climate and biodiversity crises growing more urgent, these groups say AI helps them move faster and make better use of the information they collect. Some, like the World Resources Institute, are also using AI carefully to keep its own footprint small.",
+     "image": "https://faughnmedia.media.clients.ellingtoncms.com/img/photos/2026/11/09/2026-11-07T061022Z_2_LYNXNPEMA6058_RTROPTP_4_CLIMATE-COP31-AI_t1200.JPG?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+     "emoji": "🐘",
+     "category": "Environment"
+    }
+   ]
+  }
+ ]
+}
